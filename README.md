@@ -7,7 +7,6 @@
 * Bootstrap
 * jQuery
 * Owl Carousel
-* 
 
 
 
