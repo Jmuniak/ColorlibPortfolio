@@ -904,7 +904,7 @@ body:after {
   max-width: 950px;
 }
 
-@media (max-width: 991.98px) {
+@media (max-width: 600px) {
   .site-blocks-cover .img-face {
     right: -25%;
   }
