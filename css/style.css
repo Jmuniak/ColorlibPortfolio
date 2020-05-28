@@ -1,3 +1,8 @@
+.img-fluid {
+  max-width: 600px;
+  max-height: 500px;
+}
+
 /* Base */
 html {
   overflow-x: hidden;
